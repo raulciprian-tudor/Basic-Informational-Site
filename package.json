@@ -1,0 +1,16 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "the odin project - beginner",
+  "license": "ISC",
+  "author": "Ciprian Tudor",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "express": "^5.2.1"
+  }
+}
